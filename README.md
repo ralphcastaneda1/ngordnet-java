@@ -2,7 +2,7 @@
 Java backend for historical word-usage and WordNet hyponym queries 
 
 
-Ngordnet-Java is the Java server and library implementation for CS 61B Spring 2025 Project 2A: a browser-based historical word-usage viewer. It
+Ngordnet-Java is the Java server and library implementation for a browser-based historical word-usage viewer. It
 
 Parses and stores 1-gram N-gram datasets into an efficient TimeSeries and NGramMap structure.
 
